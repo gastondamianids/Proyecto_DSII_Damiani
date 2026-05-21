@@ -2,7 +2,7 @@
 
 Proyecto desarrollado para la materia **Data Science 2**, enfocado en la aplicación de Machine Learning para recomendar cultivos según variables climáticas y del suelo.
 
----
+
 
 # Objetivo
 
@@ -16,7 +16,7 @@ Desarrollar un modelo capaz de predecir el cultivo más adecuado utilizando vari
 - pH
 - Precipitaciones
 
----
+
 
 # Tecnologías Utilizadas
 
@@ -27,14 +27,14 @@ Desarrollar un modelo capaz de predecir el cultivo más adecuado utilizando vari
 - Seaborn
 - Scikit-learn
 
----
+
 
 # Modelos Utilizados
 
 - Regresión Logística
 - Random Forest
 
----
+
 
 # Resultados
 
@@ -45,7 +45,7 @@ Desarrollar un modelo capaz de predecir el cultivo más adecuado utilizando vari
 
 El modelo Random Forest obtuvo el mejor desempeño general.
 
----
+
 
 # Principales Hallazgos
 
@@ -53,7 +53,7 @@ El modelo Random Forest obtuvo el mejor desempeño general.
 - Las variables climáticas y nutricionales mostraron alta capacidad predictiva.
 - El proyecto demuestra el potencial del Machine Learning aplicado al agro.
 
----
+
 
 # Autor
 
